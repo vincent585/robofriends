@@ -1,7 +1,3 @@
 # robofriends
-Tutorial for udemy course - React
-To run the project:
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+This was a project tutorial I followed along with to introduce myself to the fundamentals of React, namely the relationship between components and containers, JSX syntax, folder structure,  Lifecycle Hooks, how state affects props and how the page renders, fetching API data and using it with .then(). 
